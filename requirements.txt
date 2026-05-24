@@ -1,0 +1,16 @@
+#web framework
+fastapi
+#web server to run FastAPI
+uvicorn[standard]
+#database toolkit
+sqlalchemy
+#PostgreSQL driver
+psycopg2-binary
+#Data validation
+pydantic
+# google cloud
+gcsfs
+# azure storage blob
+azure-storage-blob
+#azure credentials
+azure-identity
