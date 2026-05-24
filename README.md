@@ -179,7 +179,7 @@ What's next:
 http://localhost:8000/extract-from-azure
 
 You will get the output in browser printed in extract-from-azure-output-docker.json
-# length might vary depending upon what you have uploaded
+length might vary depending upon what you have uploaded
 
 # To list available apps
 (.venv) (base) devarshisingh@Devarshis-MacBook-Air gcfs_docker % docker ps
